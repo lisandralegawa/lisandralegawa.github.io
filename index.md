@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Lisa Legawa's website
 
 You can use the [editor on GitHub](https://github.com/lisandralegawa/lisandralegawa.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
